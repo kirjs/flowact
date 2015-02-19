@@ -1,0 +1,23 @@
+{
+  "name": "flowact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "fflux": "^0.8.6",
+    "jsx-loader": "^0.12.2",
+    "react-hot-loader": "^1.1.5",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "codemirror": "^4.12.0"
+  }
+}
